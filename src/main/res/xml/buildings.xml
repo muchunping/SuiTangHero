@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<building-list>
+    <building name="@string/guan_fu" icon="@drawable/ic_1003" description="@string/description_guan_fu" level="1" level-top="20">
+        <upgrade-prerequisites-list>
+            <level value="1">
+                <building name="@string/cheng_qiang" level="1" />
+            </level>
+            <level value="2">
+                <building name="@string/cheng_qiang" level="1" />
+            </level>
+            <level value="3">
+                <building name="@string/cheng_qiang" level="2"/>
+            </level>
+            <level value="4">
+                <building name="@string/cheng_qiang" level="3"/>
+            </level>
+            <level value="5">
+                <building name="@string/cheng_qiang" level="4"/>
+                <user isnewer="false"/>
+            </level>
+            <level value="6">
+                <building name="@string/cheng_qiang" level="5"/>
+            </level>
+            <level value="7">
+                <building name="@string/cheng_qiang" level="6"/>
+            </level>
+            <level value="8">
+                <building name="@string/cheng_qiang" level="7"/>
+            </level>
+            <level value="9">
+                <building name="@string/cheng_qiang" level="8"/>
+            </level>
+            <level value="10">
+                <building name="@string/cheng_qiang" level="9"/>
+            </level>
+            <level value="11">
+                <building name="@string/cheng_qiang" level="10"/>
+            </level>
+            <level value="12">
+                <building name="@string/cheng_qiang" level="11"/>
+            </level>
+            <level value="13">
+                <building name="@string/cheng_qiang" level="12"/>
+            </level>
+            <level value="14">
+                <building name="@string/cheng_qiang" level="13"/>
+            </level>
+            <level value="15">
+                <building name="@string/cheng_qiang" level="14"/>
+            </level>
+            <level value="16">
+                <building name="@string/cheng_qiang" level="15"/>
+            </level>
+            <level value="17">
+                <building name="@string/cheng_qiang" level="16"/>
+            </level>
+            <level value="18">
+                <building name="@string/cheng_qiang" level="17"/>
+            </level>
+            <level value="19">
+                <building name="@string/cheng_qiang" level="18"/>
+            </level>
+            <level value="20">
+                <building name="@string/cheng_qiang" level="19"/>
+            </level>
+        </upgrade-prerequisites-list>
+    </building>
+    <building name="@string/cheng_qiang" icon="@drawable/ic_1001" description="@string/description_cheng_qiang" level="1" level-top="20">
+        <upgrade-prerequisites-list>
+            <level value="1">
+                <building name="@string/tu_mu_si" level="1" />
+            </level>
+            <level value="2">
+                <building name="@string/tu_mu_si" level="1" />
+            </level>
+            <level value="3">
+                <building name="@string/tu_mu_si" level="2"/>
+            </level>
+            <level value="4">
+                <building name="@string/tu_mu_si" level="3"/>
+            </level>
+            <level value="5">
+                <building name="@string/tu_mu_si" level="4"/>
+            </level>
+            <level value="6">
+                <building name="@string/tu_mu_si" level="5"/>
+            </level>
+            <level value="7">
+                <building name="@string/tu_mu_si" level="6"/>
+            </level>
+            <level value="8">
+                <building name="@string/tu_mu_si" level="7"/>
+            </level>
+            <level value="9">
+                <building name="@string/tu_mu_si" level="8"/>
+            </level>
+            <level value="10">
+                <building name="@string/tu_mu_si" level="9"/>
+            </level>
+            <level value="11">
+                <building name="@string/tu_mu_si" level="10"/>
+            </level>
+            <level value="12">
+                <building name="@string/tu_mu_si" level="11"/>
+            </level>
+            <level value="13">
+                <building name="@string/tu_mu_si" level="12"/>
+            </level>
+            <level value="14">
+                <building name="@string/tu_mu_si" level="13"/>
+            </level>
+            <level value="15">
+                <building name="@string/tu_mu_si" level="14"/>
+            </level>
+            <level value="16">
+                <building name="@string/tu_mu_si" level="15"/>
+            </level>
+            <level value="17">
+                <building name="@string/tu_mu_si" level="16"/>
+            </level>
+            <level value="18">
+                <building name="@string/tu_mu_si" level="17"/>
+            </level>
+            <level value="19">
+                <building name="@string/tu_mu_si" level="18"/>
+            </level>
+            <level value="20">
+                <building name="@string/tu_mu_si" level="19"/>
+            </level>
+        </upgrade-prerequisites-list>
+    </building>
+</building-list>
