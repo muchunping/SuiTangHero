@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="activity_title_text">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">@color/gray_dark</item>
+    </style>
+    <style name="font_big_gray">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="font_big_gray_light">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray_light</item>
+    </style>
+    <style name="font_big_gray_dark">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray_dark</item>
+    </style>
+</resources>

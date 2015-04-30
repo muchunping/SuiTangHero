@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_menu">
+        <item>任务</item>
+        <item>将领</item>
+        <item>背包</item>
+        <item>军队</item>
+        <item>势力</item>
+        <item>锻造</item>
+        <item>联盟</item>
+        <item>好友</item>
+        <item>交易</item>
+        <item>排行</item>
+        <item>商城</item>
+        <item>系统</item>
+    </string-array>
+</resources>
